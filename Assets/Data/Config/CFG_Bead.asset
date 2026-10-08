@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4415d6b4cddff4f48aae5fa1bb166b91, type: 3}
+  m_Name: CFG_Bead
+  m_EditorClassIdentifier: Assembly-CSharp::Eoduk.Core.Config.BeadConfig
+  lightRange: 12
+  lightAngle: 55
+  pointRadius: 2
+  offIntensity: 0.1
+  viewportPos: {x: 0.18, y: 0.82}
+  warnFar: 20
+  warnNear: 10
+  flickerSlowHz: 2
+  flickerFastHz: 6
+  intensity: 2.5
